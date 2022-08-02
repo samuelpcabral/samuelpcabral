@@ -8,7 +8,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Robot_Framework" height="40" width="40" src="https://ghcdn.rawgit.org/robotframework/visual-identity/master/logo/robot-framework-white.png">
+  <img align="center" alt="Robot_Framework" height="40" width="40" src="https://robotframework.org/img/RF.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
