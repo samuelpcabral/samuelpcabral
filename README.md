@@ -3,10 +3,10 @@
 
 -  Software Test Engineer
 -  Robot Framework Enthusiast
--  Reach me in: [![Linkedin: Samuel](https://img.shields.io/badge/-Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-cabral-5b6840137/)](https://www.linkedin.com/in/samuel-cabral-5b6840137/)
 
 ![samuelpcabral GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelpcabral&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=0CC303&icon_color=0CC303&theme=gruvbox&include_all_commits=true)
 
+Reach me in: [![Linkedin: Samuel](https://img.shields.io/badge/-Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-cabral-5b6840137/)](https://www.linkedin.com/in/samuel-cabral-5b6840137/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Robot_Framework" height="40" width="40" src="https://robotframework.org/img/RF.svg">
