@@ -3,8 +3,7 @@
 
 -  Software Test Engineer
 -  Robot Framework Enthusiast
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelpcabral&show_icons=true&theme=dark)
+-  Python lover
 
 Reach me in: [![Linkedin: Samuel](https://img.shields.io/badge/-Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-cabral-5b6840137/)](https://www.linkedin.com/in/samuel-cabral-5b6840137/)
 
