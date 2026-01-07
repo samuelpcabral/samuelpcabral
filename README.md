@@ -4,7 +4,7 @@
 -  Software Test Engineer
 -  Robot Framework Enthusiast
 
-![samuelpcabral's Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelpcabral&theme=dracula&hide_border=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelpcabral&show_icons=true&theme=dark)
 
 Reach me in: [![Linkedin: Samuel](https://img.shields.io/badge/-Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-cabral-5b6840137/)](https://www.linkedin.com/in/samuel-cabral-5b6840137/)
 
